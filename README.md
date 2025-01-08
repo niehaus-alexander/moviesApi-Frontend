@@ -10,4 +10,4 @@ This is the **React Bootstrap frontend** for my Movie API project. This project 
 There is currently a **bug in the review-adding functionality**. I am actively working on resolving this issue and hope to fix it soon.
 
 ### Backend Repository
-The backend for this project is built using **Spring Boot** and can be found [here](<backend-repo-url>).
+The backend for this project is built using **Spring Boot** and can be found [here](https://github.com/niehaus-alexander/MovieAPI).
